@@ -1,0 +1,2 @@
+# Bibliotecas padrão do Python (Standard Library)
+# Nenhuma instalação externa é necessária.
